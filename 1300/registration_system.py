@@ -1,3 +1,4 @@
+# 4C
 n = int(input())
 
 names = [input() for _ in range(n)]

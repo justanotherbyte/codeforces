@@ -1,3 +1,4 @@
+# 510A
 rows, cols = list(map(int, input().split(" ")))
 
 table = [["#"] * cols] * rows

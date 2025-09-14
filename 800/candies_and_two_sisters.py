@@ -1,3 +1,4 @@
+# 1335A
 import math
 
 cases = int(input())
